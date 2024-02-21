@@ -1,0 +1,68 @@
+.navbar{
+    display: inline-block;
+
+    padding: 10px;
+    display: fixed
+    ;
+    
+}
+
+div > a{
+    text-decoration: none;
+    color: black;
+    padding: 8px;
+}
+button{
+    color: rgb(223, 148, 148);
+
+}
+.nav>a{
+
+    font-weight: 500;
+    padding: 20px;
+    text-align: center;
+}
+
+div>img{
+    width: 40wh;
+    height: 50vh;
+}
+p{
+    display: inline-block;
+position: absolute;
+top: 33vh;
+right: 25vh;
+font-weight: bolder;
+font-size: larger;
+}
+div >#peragraph{
+    display: inline-block;
+    position: absolute;
+    top: 45vh;
+    right: 17vh;
+    font-weight: ;
+    font-size:small;
+    margin: 35px;
+    
+    }
+    #two{text-align: center;
+           display: inline-block;
+        position: absolute;
+        top: 55vh;
+        right:20vh;
+        font-weight:lighter ;
+        font-size:small;
+        margin: 25px;
+padding: 0px;
+    }
+    .button{
+        display: inline-block;
+        position: absolute;
+        top: 70vh;
+        right:20vh;
+        font-weight:lighter ;
+        font-size:small;
+        margin: 20px;
+padding: 3px;
+
+    }
